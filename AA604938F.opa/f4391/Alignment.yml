@@ -1,0 +1,19 @@
+segment_sources:
+  I876869D4:
+    type: origin_type
+    relation: translation
+    language: en
+  IAEA36EB6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bce90932f4cf42eeb7f283e87e4f6576:
+    I876869D4: afaa132424e64d219c944f77522e7fb1
+    IAEA36EB6: f809f68379cb48739fc458e99fa440e5
+  4ea2d9d4fd214aa1a2e476ff4b5195fc:
+    I876869D4: 896cdbcc67e2464b980408b14fc5ac74
+    IAEA36EB6: 8279b15277684e399d50a577747750f9
+  3b18bf09e9604fdd8a6b7549f36d84fc:
+    I876869D4: 4ddf9a1875de40189ebe7a5d128d92b5
+    IAEA36EB6: cb1a78156ca94be29dd4c72c241df6f4
